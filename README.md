@@ -1,8 +1,16 @@
 # SkiAdvisor
 Java App to save Ski Area information to SQL database.
 
+<br>
+
+## Overview
+
 This project was part of Database class. The app runs on terminal and prompts the user what they would like to do. 
 It saves then user data to the database that was created.
+
+<br>
+
+## Features
 
 Possible user options include:
 * Create user
@@ -11,6 +19,10 @@ Possible user options include:
 * See ratings for a specific Ski Area 
 * Searh users
 * Delete user
+
+<br>
+
+## Reflective summary
 
 During this project I created a deeper understanding of databases and how to implement database to Java code. 
 In addition I challenged my creativity by coming up with an app idea that I was personally passionate about and that would be useful to others.
