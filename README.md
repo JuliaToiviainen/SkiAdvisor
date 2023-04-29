@@ -6,7 +6,7 @@ Java App to save Ski Area information to SQL database.
 ## Overview
 
 This project was part of Database class. The app runs on terminal and prompts the user what they would like to do. 
-It saves then user data to the database that was created.
+It saves then user data to the database that was created. The idea behind it that I wanted to have a place where the user can easily show their rankings of each resort and then other user can view them to see better which ski resort would be the best fit for their needs. 
 
 <br>
 
